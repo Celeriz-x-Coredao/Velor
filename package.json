@@ -1,0 +1,26 @@
+{
+  "name": "pryme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Celeriz-x-Coredao/Pryme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Celeriz-x-Coredao/Pryme/issues"
+  },
+  "homepage": "https://github.com/Celeriz-x-Coredao/Pryme#readme",
+  "dependencies": {
+    "circomlib": "^2.0.5"
+  }
+}
